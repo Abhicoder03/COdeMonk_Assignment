@@ -59,8 +59,11 @@ The insights from EDA helped in preprocessing decisions and model architecture.
 
 # 🧪 Amazon Test Cases
 
-We tested our model on **real-world fashion images** taken from Amazon screenshots.
+I tested our model on **real-world fashion images** taken from Amazon screenshots.
 
+For this product model predicts![black_tshirt1](https://github.com/user-attachments/assets/738ff505-55c3-4faa-8b04-49e2bd543470)
+
+![image](https://github.com/user-attachments/assets/48fd0897-1287-4924-bdca-63f66c2aa065)
 
 
 
